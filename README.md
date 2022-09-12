@@ -1,2 +1,2 @@
 # Calender-with-C
-This is a C project.
+This is a Simple C project. Some Simple line of Code is Used here.
